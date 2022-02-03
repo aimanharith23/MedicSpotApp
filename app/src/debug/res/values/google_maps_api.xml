@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B4:BA:46:90:91:7A:9C:CE:57:58:FA:3A:A6:28:A2:2F:31:EF:E5:BD%3Bnet.airith.medicspot3
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    net.airith.medicspot3
+
+    SHA-1 certificate fingerprint:
+    B4:BA:46:90:91:7A:9C:CE:57:58:FA:3A:A6:28:A2:2F:31:EF:E5:BD
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDvPSfTzLxOLtudtuN1fAT-EbQGjS3Yv94</string>
+</resources>
